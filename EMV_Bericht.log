@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.11)  26 MAY 2019 15:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.11)  27 MAY 2019 14:09
 entering extended mode
 **./EMV_Bericht.tex
 (EMV_Bericht.tex
@@ -2110,62 +2110,110 @@ ine 9.
 \openout2 = `sections/Schaltung.aux'.
 
  (sections/Schaltung.tex
-<graphics/Schaltung.jpg, id=123, 3854.4pt x 5139.2pt>
-File: graphics/Schaltung.jpg Graphic file (type jpg)
-<use graphics/Schaltung.jpg>
-Package pdftex.def Info: graphics/Schaltung.jpg  used on input line 12.
-(pdftex.def)             Requested size: 3854.39066pt x 5139.18755pt.
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
+ []
+
+<graphics/SchaltungDraw.jpg, id=123, 843.75224pt x 411.33675pt>
+File: graphics/SchaltungDraw.jpg Graphic file (type jpg)
+<use graphics/SchaltungDraw.jpg>
+Package pdftex.def Info: graphics/SchaltungDraw.jpg  used on input line 12.
+(pdftex.def)             Requested size: 843.75018pt x 411.33574pt.
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 13.
 See the caption package documentation for explanation.
 
-) [2
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+<graphics/Schaltung1.jpg, id=126, 5139.2pt x 3854.4pt>
+File: graphics/Schaltung1.jpg Graphic file (type jpg)
+<use graphics/Schaltung1.jpg>
+Package pdftex.def Info: graphics/Schaltung1.jpg  used on input line 24.
+(pdftex.def)             Requested size: 5139.18755pt x 3854.39066pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 25.
+See the caption package documentation for explanation.
 
 
- <./graphics/Schaltung.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+[2
+
+
+ <./graphics/SchaltungDraw.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+<graphics/Schaltungstest.jpg, id=140, 612.03656pt x 482.55281pt>
+File: graphics/Schaltungstest.jpg Graphic file (type jpg)
+<use graphics/Schaltungstest.jpg>
+Package pdftex.def Info: graphics/Schaltungstest.jpg  used on input line 36.
+(pdftex.def)             Requested size: 612.03506pt x 482.55162pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 37.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+[3 <./graphics/Schaltung1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+) [4 <./graphics/Schaltungstest.jpg>]
 \openout2 = `sections/Testarten.aux'.
 
- (sections/Testarten.tex) [3
+ (sections/Testarten.tex) [5
 
 
 ]
 \openout2 = `sections/Schutzelemente.aux'.
 
 
-(sections/Schutzelemente.tex) [4
+(sections/Schutzelemente.tex) [6
 
 
 ]
 \openout2 = `sections/Testaufbau.aux'.
 
- (sections/Testaufbau.tex) [5
+ (sections/Testaufbau.tex) [7
 
 
 ]
 \openout2 = `sections/Burst.aux'.
 
 
-(sections/Burst.tex) [6
+(sections/Burst.tex) [8
 
 
 ]
 \openout2 = `sections/Surge.aux'.
 
- (sections/Surge.tex) [7
+ (sections/Surge.tex) [9
 
 
 ]
 \openout2 = `sections/Testauswertung.aux'.
 
- (sections/Testauswertung.tex) [8
+ (sections/Testauswertung.tex) [10
 
 
 ]
 \openout2 = `sections/Schluss.aux'.
 
- (sections/Schluss.tex) [9
+ (sections/Schluss.tex) [11
 
 
 ]
@@ -2191,26 +2239,29 @@ Package logreq Info: Writing requests to 'EMV_Bericht.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 49874 strings out of 492946
- 1045689 string characters out of 3126266
- 1610314 words of memory out of 3000000
- 52949 multiletter control sequences out of 15000+200000
+ 49891 strings out of 492946
+ 1046058 string characters out of 3126266
+ 1611433 words of memory out of 3000000
+ 52959 multiletter control sequences out of 15000+200000
  601516 words of font info for 61 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  64i,9n,81p,1138b,2296s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.en
-c}<C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx1
-0.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/l
-mbx12.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-lm/lmr10.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/lm/lmr12.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/lm/lmr17.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/lm/lmr9.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/lm/lmro10.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/lm/lmssbx10.pfb>
-Output written on EMV_Bericht.pdf (11 pages, 3833195 bytes).
+{C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathi
+t.enc}{C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-r
+m.enc}{C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-e
+c.enc}<C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/l
+mbx10.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+lm/lmbx12.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/lm/lmmi10.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/lm/lmr10.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmr12.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/lm/lmr17.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/lm/lmr9.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/lm/lmro10.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on EMV_Bericht.pdf (13 pages, 4837281 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 29 named destinations out of 1000 (max. 500000)
+ 206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
