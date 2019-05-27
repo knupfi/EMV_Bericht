@@ -1,9 +1,15 @@
 \BOOKMARK [1][-]{section.1}{1 Einleitung}{}% 1
 \BOOKMARK [1][-]{section.2}{2 Schaltung}{}% 2
-\BOOKMARK [1][-]{section.3}{3 Testarten und Normen}{}% 3
-\BOOKMARK [1][-]{section.4}{4 Schutzelemente}{}% 4
-\BOOKMARK [1][-]{section.5}{5 Testaufbau}{}% 5
-\BOOKMARK [1][-]{section.6}{6 Testprotokoll: Burst}{}% 6
-\BOOKMARK [1][-]{section.7}{7 Testprotokoll: Surge}{}% 7
-\BOOKMARK [1][-]{section.8}{8 Testauswertung}{}% 8
-\BOOKMARK [1][-]{section.9}{9 Schluss}{}% 9
+\BOOKMARK [1][-]{section.3}{3 Testarten}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{3.1 ESD}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{3.2 Burst}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{3.3 Surge}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{3.4 HF-St\366rfelder}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{3.5 Gestrahlte Emission}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.6}{3.6 Auswahl der EMV-Tests und Kriterien}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{4 Schutzelemente}{}% 10
+\BOOKMARK [1][-]{section.5}{5 Testaufbau}{}% 11
+\BOOKMARK [1][-]{section.6}{6 Testprotokoll: Burst}{}% 12
+\BOOKMARK [1][-]{section.7}{7 Testprotokoll: Surge}{}% 13
+\BOOKMARK [1][-]{section.8}{8 Testauswertung}{}% 14
+\BOOKMARK [1][-]{section.9}{9 Schluss}{}% 15

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.11)  27 MAY 2019 14:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.11)  28 MAY 2019 00:01
 entering extended mode
 **./EMV_Bericht.tex
 (EMV_Bericht.tex
@@ -2069,14 +2069,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 10.
 ("C:\Users\mknup\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmtt.fd"
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<fhnwlogo.pdf, id=66, 183.81773pt x 28.4543pt>
+<fhnwlogo.pdf, id=90, 183.81773pt x 28.4543pt>
 File: fhnwlogo.pdf Graphic file (type pdf)
 <use fhnwlogo.pdf>
 Package pdftex.def Info: fhnwlogo.pdf  used on input line 16.
 (pdftex.def)             Requested size: 220.57736pt x 34.1433pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 16.
-<./graphics/Titelbild.jpg, id=67, 622.325pt x 414.54875pt>
+<./graphics/Titelbild.jpg, id=91, 622.325pt x 414.54875pt>
 File: ./graphics/Titelbild.jpg Graphic file (type jpg)
 <use ./graphics/Titelbild.jpg>
 Package pdftex.def Info: ./graphics/Titelbild.jpg  used on input line 20.
@@ -2114,7 +2114,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-<graphics/SchaltungDraw.jpg, id=123, 843.75224pt x 411.33675pt>
+<graphics/SchaltungDraw.jpg, id=153, 843.75224pt x 411.33675pt>
 File: graphics/SchaltungDraw.jpg Graphic file (type jpg)
 <use graphics/SchaltungDraw.jpg>
 Package pdftex.def Info: graphics/SchaltungDraw.jpg  used on input line 12.
@@ -2129,7 +2129,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
-<graphics/Schaltung1.jpg, id=126, 5139.2pt x 3854.4pt>
+<graphics/Schaltung1.jpg, id=156, 5139.2pt x 3854.4pt>
 File: graphics/Schaltung1.jpg Graphic file (type jpg)
 <use graphics/Schaltung1.jpg>
 Package pdftex.def Info: graphics/Schaltung1.jpg  used on input line 24.
@@ -2152,7 +2152,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
-<graphics/Schaltungstest.jpg, id=140, 612.03656pt x 482.55281pt>
+<graphics/Schaltungstest.jpg, id=170, 612.03656pt x 482.55281pt>
 File: graphics/Schaltungstest.jpg Graphic file (type jpg)
 <use graphics/Schaltungstest.jpg>
 Package pdftex.def Info: graphics/Schaltungstest.jpg  used on input line 36.
@@ -2175,45 +2175,100 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 ) [4 <./graphics/Schaltungstest.jpg>]
 \openout2 = `sections/Testarten.aux'.
 
- (sections/Testarten.tex) [5
+ (sections/Testarten.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--15
+
+ []
+
+<graphics/BurstProgramm.jpg, id=181, 739.563pt x 296.90926pt>
+File: graphics/BurstProgramm.jpg Graphic file (type jpg)
+<use graphics/BurstProgramm.jpg>
+Package pdftex.def Info: graphics/BurstProgramm.jpg  used on input line 18.
+(pdftex.def)             Requested size: 739.5612pt x 296.90852pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 19.
+See the caption package documentation for explanation.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.19 ...ogramme für die verschiedenen Testlevel.}
+                                                  
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
 
 
-]
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+
+ []
+
+<graphics/SurgeProgramm.jpg, id=183, 734.745pt x 294.50024pt>
+File: graphics/SurgeProgramm.jpg Graphic file (type jpg)
+<use graphics/SurgeProgramm.jpg>
+Package pdftex.def Info: graphics/SurgeProgramm.jpg  used on input line 31.
+(pdftex.def)             Requested size: 734.7432pt x 294.49951pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 32.
+See the caption package documentation for explanation.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.32 ...ogramme für die verschiedenen Testlevel.}
+                                                   [5
+
+
+ <./graphics/BurstProgramm.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--48
+
+ []
+
+) [6 <./graphics/SurgeProgramm.jpg>]
 \openout2 = `sections/Schutzelemente.aux'.
 
-
-(sections/Schutzelemente.tex) [6
+ (sections/Schutzelemente.tex) [7
 
 
 ]
 \openout2 = `sections/Testaufbau.aux'.
 
- (sections/Testaufbau.tex) [7
+
+(sections/Testaufbau.tex) [8
 
 
 ]
 \openout2 = `sections/Burst.aux'.
 
-
-(sections/Burst.tex) [8
+ (sections/Burst.tex) [9
 
 
 ]
 \openout2 = `sections/Surge.aux'.
 
- (sections/Surge.tex) [9
+ (sections/Surge.tex)
+[10
 
 
 ]
 \openout2 = `sections/Testauswertung.aux'.
 
- (sections/Testauswertung.tex) [10
+ (sections/Testauswertung.tex) [11
 
 
 ]
 \openout2 = `sections/Schluss.aux'.
 
- (sections/Schluss.tex) [11
+ (sections/Schluss.tex) [12
 
 
 ]
@@ -2232,18 +2287,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `EMV_Bericht.out' has not changed.
-(rerunfilecheck)             Checksum: 0E7FDA487D898A988A315AEA56C643F3;466.
+(rerunfilecheck)             Checksum: ADB5E2B80B6A63C56FB810C59DB62ABE;868.
 Package logreq Info: Writing requests to 'EMV_Bericht.run.xml'.
 \openout1 = `EMV_Bericht.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 49891 strings out of 492946
- 1046058 string characters out of 3126266
- 1611433 words of memory out of 3000000
- 52959 multiletter control sequences out of 15000+200000
- 601516 words of font info for 61 fonts, out of 3000000 for 9000
+ 49917 strings out of 492946
+ 1046578 string characters out of 3126266
+ 1611604 words of memory out of 3000000
+ 52976 multiletter control sequences out of 15000+200000
+ 604284 words of font info for 62 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  64i,9n,81p,1138b,2296s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathi
@@ -2259,9 +2314,9 @@ pe1/public/lm/lmr12.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts
 nts/type1/public/lm/lmr9.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/lm/lmro10.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on EMV_Bericht.pdf (13 pages, 4837281 bytes).
+Output written on EMV_Bericht.pdf (14 pages, 5111606 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 206 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 261 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 264 words of extra memory for PDF output out of 10000 (max. 10000000)
 

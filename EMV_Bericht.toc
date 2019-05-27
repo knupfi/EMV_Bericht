@@ -5,10 +5,16 @@
 \babel@toc {ngerman}{}
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.1}% 
 \contentsline {section}{\numberline {2}Schaltung}{2}{section.2}% 
-\contentsline {section}{\numberline {3}Testarten und Normen}{5}{section.3}% 
-\contentsline {section}{\numberline {4}Schutzelemente}{6}{section.4}% 
-\contentsline {section}{\numberline {5}Testaufbau}{7}{section.5}% 
-\contentsline {section}{\numberline {6}Testprotokoll: Burst}{8}{section.6}% 
-\contentsline {section}{\numberline {7}Testprotokoll: Surge}{9}{section.7}% 
-\contentsline {section}{\numberline {8}Testauswertung}{10}{section.8}% 
-\contentsline {section}{\numberline {9}Schluss}{11}{section.9}% 
+\contentsline {section}{\numberline {3}Testarten}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}ESD}{5}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Burst}{5}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Surge}{5}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}HF-St\IeC {\"o}rfelder}{6}{subsection.3.4}% 
+\contentsline {subsection}{\numberline {3.5}Gestrahlte Emission}{6}{subsection.3.5}% 
+\contentsline {subsection}{\numberline {3.6}Auswahl der EMV-Tests und Kriterien}{6}{subsection.3.6}% 
+\contentsline {section}{\numberline {4}Schutzelemente}{7}{section.4}% 
+\contentsline {section}{\numberline {5}Testaufbau}{8}{section.5}% 
+\contentsline {section}{\numberline {6}Testprotokoll: Burst}{9}{section.6}% 
+\contentsline {section}{\numberline {7}Testprotokoll: Surge}{10}{section.7}% 
+\contentsline {section}{\numberline {8}Testauswertung}{11}{section.8}% 
+\contentsline {section}{\numberline {9}Schluss}{12}{section.9}% 
