@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.11)  28 MAY 2019 00:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.11)  28 MAY 2019 10:53
 entering extended mode
 **./EMV_Bericht.tex
 (EMV_Bericht.tex
@@ -2236,10 +2236,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--48
 ) [6 <./graphics/SurgeProgramm.jpg>]
 \openout2 = `sections/Schutzelemente.aux'.
 
- (sections/Schutzelemente.tex) [7
+ (sections/Schutzelemente.tex
+<graphics/Schema2.jpg, id=195, 747.39224pt x 292.09125pt>
+File: graphics/Schema2.jpg Graphic file (type jpg)
+<use graphics/Schema2.jpg>
+Package pdftex.def Info: graphics/Schema2.jpg  used on input line 19.
+(pdftex.def)             Requested size: 747.39041pt x 292.09052pt.
 
 
-]
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 20.
+See the caption package documentation for explanation.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.20 \captionof{figure}{Ergänzung des Schemas.}
+                                                ) [7
+
+
+ <./graphics/Schema2.jpg>]
 \openout2 = `sections/Testaufbau.aux'.
 
 
@@ -2294,10 +2311,10 @@ Package logreq Info: Writing requests to 'EMV_Bericht.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 49917 strings out of 492946
- 1046578 string characters out of 3126266
- 1611604 words of memory out of 3000000
- 52976 multiletter control sequences out of 15000+200000
+ 49927 strings out of 492946
+ 1046741 string characters out of 3126266
+ 1612655 words of memory out of 3000000
+ 52981 multiletter control sequences out of 15000+200000
  604284 words of font info for 62 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  64i,9n,81p,1138b,2296s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2314,9 +2331,9 @@ pe1/public/lm/lmr12.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts
 nts/type1/public/lm/lmr9.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/lm/lmro10.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on EMV_Bericht.pdf (14 pages, 5111606 bytes).
+Output written on EMV_Bericht.pdf (14 pages, 5172192 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
- 264 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 273 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 269 words of extra memory for PDF output out of 10000 (max. 10000000)
 
