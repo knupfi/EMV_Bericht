@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.11)  28 MAY 2019 10:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.11)  28 MAY 2019 17:16
 entering extended mode
 **./EMV_Bericht.tex
 (EMV_Bericht.tex
@@ -2266,26 +2266,113 @@ l.20 \captionof{figure}{Erg√§nzung des Schemas.}
 ]
 \openout2 = `sections/Burst.aux'.
 
- (sections/Burst.tex) [9
+ (sections/Burst.tex
+<graphics/BurstNormprogramm.jpg, id=214, 5139.2pt x 3854.4pt>
+File: graphics/BurstNormprogramm.jpg Graphic file (type jpg)
+<use graphics/BurstNormprogramm.jpg>
+Package pdftex.def Info: graphics/BurstNormprogramm.jpg  used on input line 6.
+(pdftex.def)             Requested size: 5139.18755pt x 3854.39066pt.
 
 
-]
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 7.
+See the caption package documentation for explanation.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.7 \captionof{figure}{Auswahl der Normprogramme.}
+                                                  
+<graphics/BurstE1.jpg, id=216, 5139.2pt x 3854.4pt>
+File: graphics/BurstE1.jpg Graphic file (type jpg)
+<use graphics/BurstE1.jpg>
+Package pdftex.def Info: graphics/BurstE1.jpg  used on input line 14.
+(pdftex.def)             Requested size: 5139.18755pt x 3854.39066pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 15.
+See the caption package documentation for explanation.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.15 ...gure}{Signalmessung w√§hrend Burst-Tests.}
+                                                  
+<graphics/BurstE2.jpg, id=218, 5139.2pt x 3854.4pt>
+File: graphics/BurstE2.jpg Graphic file (type jpg)
+<use graphics/BurstE2.jpg>
+Package pdftex.def Info: graphics/BurstE2.jpg  used on input line 22.
+(pdftex.def)             Requested size: 5139.18755pt x 3854.39066pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 23.
+See the caption package documentation for explanation.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.23 ...tionof{figure}{Signal- und Burst-Messung.}
+                                                  
+Underfull \hbox (badness 1789) in paragraph at lines 32--33
+\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 34--35
+\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 36--37
+\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 38--39
+\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
+ []
+
+
+Package caption Warning: \captionsetup{type*=...} or \captionof
+(caption)                outside box or environment on input line 41.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 41.
+See the caption package documentation for explanation.
+
+[9
+
+
+ <./graphics/BurstNormprogramm.jpg>] [10 <./graphics/BurstE1.jpg> <./graphics/B
+urstE2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+) [11]
 \openout2 = `sections/Surge.aux'.
 
- (sections/Surge.tex)
-[10
+ (sections/Surge.tex) [12
 
 
 ]
 \openout2 = `sections/Testauswertung.aux'.
 
- (sections/Testauswertung.tex) [11
+ (sections/Testauswertung.tex) [13
 
 
 ]
 \openout2 = `sections/Schluss.aux'.
 
- (sections/Schluss.tex) [12
+
+(sections/Schluss.tex) [14
 
 
 ]
@@ -2311,10 +2398,10 @@ Package logreq Info: Writing requests to 'EMV_Bericht.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 49927 strings out of 492946
- 1046741 string characters out of 3126266
- 1612655 words of memory out of 3000000
- 52981 multiletter control sequences out of 15000+200000
+ 49950 strings out of 492946
+ 1047219 string characters out of 3126266
+ 1612874 words of memory out of 3000000
+ 52998 multiletter control sequences out of 15000+200000
  604284 words of font info for 62 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  64i,9n,81p,1138b,2296s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2331,9 +2418,9 @@ pe1/public/lm/lmr12.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts
 nts/type1/public/lm/lmr9.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/lm/lmro10.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on EMV_Bericht.pdf (14 pages, 5172192 bytes).
+Output written on EMV_Bericht.pdf (16 pages, 15560526 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 269 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 294 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
+ 284 words of extra memory for PDF output out of 10000 (max. 10000000)
 
