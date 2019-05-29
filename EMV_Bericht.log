@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.11)  28 MAY 2019 17:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.11)  29 MAY 2019 12:52
 entering extended mode
 **./EMV_Bericht.tex
 (EMV_Bericht.tex
@@ -2267,27 +2267,102 @@ l.20 \captionof{figure}{Erg√§nzung des Schemas.}
 \openout2 = `sections/Burst.aux'.
 
  (sections/Burst.tex
-<graphics/BurstNormprogramm.jpg, id=214, 5139.2pt x 3854.4pt>
-File: graphics/BurstNormprogramm.jpg Graphic file (type jpg)
-<use graphics/BurstNormprogramm.jpg>
-Package pdftex.def Info: graphics/BurstNormprogramm.jpg  used on input line 6.
+<graphics/BurstE1.jpg, id=214, 5139.2pt x 3854.4pt>
+File: graphics/BurstE1.jpg Graphic file (type jpg)
+<use graphics/BurstE1.jpg>
+Package pdftex.def Info: graphics/BurstE1.jpg  used on input line 7.
 (pdftex.def)             Requested size: 5139.18755pt x 3854.39066pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 7.
+(caption)                particular \caption on input line 8.
 See the caption package documentation for explanation.
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.7 \captionof{figure}{Auswahl der Normprogramme.}
+l.8 ...igure}{Signalmessung w√§hrend Burst-Tests.}
                                                   
-<graphics/BurstE1.jpg, id=216, 5139.2pt x 3854.4pt>
-File: graphics/BurstE1.jpg Graphic file (type jpg)
-<use graphics/BurstE1.jpg>
-Package pdftex.def Info: graphics/BurstE1.jpg  used on input line 14.
+<graphics/BurstE2.jpg, id=216, 5139.2pt x 3854.4pt>
+File: graphics/BurstE2.jpg Graphic file (type jpg)
+<use graphics/BurstE2.jpg>
+Package pdftex.def Info: graphics/BurstE2.jpg  used on input line 15.
+(pdftex.def)             Requested size: 5139.18755pt x 3854.39066pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 16.
+See the caption package documentation for explanation.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.16 ...tionof{figure}{Signal- und Burst-Messung.}
+                                                  
+Underfull \hbox (badness 1789) in paragraph at lines 25--26
+\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 27--28
+\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 29--30
+\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 31--32
+\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
+ []
+
+
+Package caption Warning: \captionsetup{type*=...} or \captionof
+(caption)                outside box or environment on input line 34.
+See the caption package documentation for explanation.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 34.
+See the caption package documentation for explanation.
+
+[9
+
+
+ <./graphics/BurstE1.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+) [10 <./graphics/BurstE2.jpg>]
+\openout2 = `sections/Surge.aux'.
+
+ (sections/Surge.tex
+<graphics/Surge1.jpg, id=232, 5139.2pt x 3854.4pt>
+File: graphics/Surge1.jpg Graphic file (type jpg)
+<use graphics/Surge1.jpg>
+Package pdftex.def Info: graphics/Surge1.jpg  used on input line 7.
+(pdftex.def)             Requested size: 5139.18755pt x 3854.39066pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 8.
+See the caption package documentation for explanation.
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.8 ... Surge-Test, Level 1, positive Polarit√§t.}
+                                                  
+<graphics/Surge2.jpg, id=234, 5139.2pt x 3854.4pt>
+File: graphics/Surge2.jpg Graphic file (type jpg)
+<use graphics/Surge2.jpg>
+Package pdftex.def Info: graphics/Surge2.jpg  used on input line 14.
 (pdftex.def)             Requested size: 5139.18755pt x 3854.39066pt.
 
 
@@ -2299,80 +2374,76 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.15 ...gure}{Signalmessung w√§hrend Burst-Tests.}
+l.15 ...Surge-Test, Level 1, negative Polarit√§t.}
                                                   
-<graphics/BurstE2.jpg, id=218, 5139.2pt x 3854.4pt>
-File: graphics/BurstE2.jpg Graphic file (type jpg)
-<use graphics/BurstE2.jpg>
-Package pdftex.def Info: graphics/BurstE2.jpg  used on input line 22.
+<graphics/Surge3.jpg, id=237, 5139.2pt x 3854.4pt>
+File: graphics/Surge3.jpg Graphic file (type jpg)
+<use graphics/Surge3.jpg>
+Package pdftex.def Info: graphics/Surge3.jpg  used on input line 21.
 (pdftex.def)             Requested size: 5139.18755pt x 3854.39066pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 23.
+(caption)                particular \caption on input line 22.
 See the caption package documentation for explanation.
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.23 ...tionof{figure}{Signal- und Burst-Messung.}
+l.22 ...Surge-Test, Level 4, positive Polarit√§t.}
                                                   
-Underfull \hbox (badness 1789) in paragraph at lines 32--33
-\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
- []
-
-
-Underfull \hbox (badness 1789) in paragraph at lines 34--35
-\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
- []
-
-
-Underfull \hbox (badness 1789) in paragraph at lines 36--37
-\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
- []
-
-
-Underfull \hbox (badness 1789) in paragraph at lines 38--39
-\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
- []
-
-
-Package caption Warning: \captionsetup{type*=...} or \captionof
-(caption)                outside box or environment on input line 41.
-See the caption package documentation for explanation.
+<graphics/Surge4.jpg, id=239, 5139.2pt x 3854.4pt>
+File: graphics/Surge4.jpg Graphic file (type jpg)
+<use graphics/Surge4.jpg>
+Package pdftex.def Info: graphics/Surge4.jpg  used on input line 28.
+(pdftex.def)             Requested size: 5139.18755pt x 3854.39066pt.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 41.
+(caption)                particular \caption on input line 29.
 See the caption package documentation for explanation.
 
-[9
+
+Underfull \hbox (badness 1789) in paragraph at lines 37--38
+\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
+ []
 
 
- <./graphics/BurstNormprogramm.jpg>] [10 <./graphics/BurstE1.jpg> <./graphics/B
-urstE2.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 1789) in paragraph at lines 39--40
+\T1/lmr/m/n/10.95 ti-ons-f‰-hig un-mit-tel-bar nach
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 42.
+See the caption package documentation for explanation.
+
+[11
+
+
+ <./graphics/Surge1.jpg>] [12 <./graphics/Surge2.jpg> <./graphics/Surge3.jpg>]p
+dfTeX warning (ext4): destination with the same identifier (name{table.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.42 ...nof{table}{Pr√ºfungsergebnis Surge-Tests.}
+                                                  )
+Underfull \hbox (badness 10000) in paragraph at lines 45--59
 
  []
 
-) [11]
-\openout2 = `sections/Surge.aux'.
-
- (sections/Surge.tex) [12
-
-
-]
+[13 <./graphics/Surge4.jpg>]
 \openout2 = `sections/Testauswertung.aux'.
 
- (sections/Testauswertung.tex) [13
+ (sections/Testauswertung.tex) [14
 
 
 ]
 \openout2 = `sections/Schluss.aux'.
 
 
-(sections/Schluss.tex) [14
+(sections/Schluss.tex) [15
 
 
 ]
@@ -2398,10 +2469,10 @@ Package logreq Info: Writing requests to 'EMV_Bericht.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 49950 strings out of 492946
- 1047219 string characters out of 3126266
- 1612874 words of memory out of 3000000
- 52998 multiletter control sequences out of 15000+200000
+ 49971 strings out of 492946
+ 1047546 string characters out of 3126266
+ 1614237 words of memory out of 3000000
+ 53014 multiletter control sequences out of 15000+200000
  604284 words of font info for 62 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  64i,9n,81p,1138b,2296s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2418,9 +2489,9 @@ pe1/public/lm/lmr12.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/fonts
 nts/type1/public/lm/lmr9.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/public/lm/lmro10.pfb><C:/Users/mknup/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on EMV_Bericht.pdf (16 pages, 15560526 bytes).
+Output written on EMV_Bericht.pdf (17 pages, 27860620 bytes).
 PDF statistics:
- 294 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 284 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 312 PDF objects out of 1000 (max. 8388607)
+ 45 named destinations out of 1000 (max. 500000)
+ 299 words of extra memory for PDF output out of 10000 (max. 10000000)
 
